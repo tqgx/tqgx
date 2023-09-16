@@ -1,1 +1,1 @@
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tqgx&show_icons=true&theme=radical)
+My personal projects are mostly on [OpenTools](https://github.com/tqgx/OpenTools) This account is mainly used as a database.
